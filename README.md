@@ -2,7 +2,7 @@
 
 这是一个基于 [MTranServer](https://github.com/xxnuo/MTranServer) 的 Bob 翻译插件，可以让您在 Bob 中使用自己部署的 MTranServer 翻译服务。
 
-本文档和插件有 manus 强力驱动，作者只是 AI 的搬运工
+**本文档和插件由 manus 强力驱动，作者只是 AI 的搬运工**
 
 ## 功能特点
 
