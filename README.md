@@ -4,12 +4,13 @@
 
 **本文档和插件由 manus 强力驱动，作者只是 AI 的搬运工**
 
+![image](https://github.com/user-attachments/assets/19a46c6b-73af-44ac-9f57-04713e051999)
+
+
 ## 功能特点
 
-- 支持多种语言翻译
-- 低资源消耗，响应速度快
+- 支持自己部署的MTranServer服务，本地运行速度飞起
 - 支持自定义 API 地址和 Token
-- 支持服务可用性验证
 
 ## 安装方法
 
