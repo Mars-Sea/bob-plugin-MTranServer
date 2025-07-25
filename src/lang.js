@@ -7,8 +7,8 @@ const langMap = {
     // 自动检测
     "auto": "auto",
     // 中文
-    "zh-Hans": "zh",
-    "zh-Hant": "zh",
+    "zh-Hans": "zh-Hans",
+    "zh-Hant": "zh-Hant",
     // 英语
     "en": "en",
     // 日语
